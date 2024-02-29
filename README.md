@@ -7,6 +7,8 @@ This documentation provides a step-by-step guide to implementing a ResNet-50 mod
 # Prerequisites
 
 Basic understanding of deep learning concepts.
+
 Familiarity with Python programming language.
+
 Installation of TensorFlow and Keras libraries.
 
